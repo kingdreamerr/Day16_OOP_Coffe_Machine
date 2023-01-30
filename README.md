@@ -1,5 +1,17 @@
 # Day16_OOP_Coffe_Machine
  
+ ## Lessons learned today
+
+- OOP
+- Methods
+- Attributes
+- Objects
+
+## Project to solidify material learned: 
+
+### Coffee machine with OOP
+
+
 > Rebuilding Day15 project but using OOP
 This is a coffee machine where you can order coffee and pay for it sadly we can't download the actual coffee
 
