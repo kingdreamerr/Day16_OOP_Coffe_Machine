@@ -5,7 +5,7 @@ This is a coffee machine where you can order coffee and pay for it sadly we can'
 
 #### Preview:
 
-
+![coffee machine](coffee.png)
 ## How to run this on your device
 
 - Clone this repository
